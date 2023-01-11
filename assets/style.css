@@ -1,0 +1,9 @@
+:root{
+    --secundary-color: #8E2424;
+    --font-color-main: #101828;
+    --font-color-sec: #667085;
+}
+
+.page{
+    min-height: 100vh;
+}
