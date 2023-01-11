@@ -6,4 +6,43 @@
 
 .page{
     min-height: 100vh;
+    font-family: 'Inter', sans-serif;
+}
+
+.cabecalho, .menu__list{
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho{
+    margin: 18px 112px;
+}
+
+.menu{
+    margin-left: 120px;
+}
+
+.menu__list{
+    width: auto;
+    gap: 32px;
+
+}
+.acesso{
+    margin-left: auto;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.link{
+    color: var(--font-color-sec);
+}
+
+.sign-up-btn{
+    color:#FFFFFF;
+    border: 1px solid var(--secundary-color);
+    background-color: var(--secundary-color);
+    padding: 10px 18px;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
 }
