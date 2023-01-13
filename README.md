@@ -12,15 +12,39 @@
 
 O escopo do projeto é o seguinte: uma empresa de TI quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la. Devo seguir o projeto do Figma que me foi enviado. Ira abordar muitos conceitos importantes, como Flexbox, Grid, entre muitos outros.
 
+---
 
 ### Dia 1 
-Desenvolver o cabeçalho da aplicação, que contempla o logo, o menu com as páginas e também dois botões do canto direito.
+Desenvolver a barra do cabeçalho da aplicação, que contempla o logo, o menu com as páginas e também dois botões do canto direito.
 
-Resultado dia 1: Cabeçalho finalizado.
+Resultado dia 1: Seção nav finalizada.
 
 <br>
 
 ![](/images/readme-images/resultado-dia1.png)
 
+---
+
+### Dia 2 
+Desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho".
+
+Resultado dia 2: Seção "Sobre nós" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia2.png)
+
+---
+
+### Dia 3 
+Desenvolver a seção de métricas e resultados da página. Ela é uma seção muito comum na maioria das landing pages que vemos por aí hoje em dia.
+
+Resultado dia 3: Seção "métricas" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia3.png)
+
+---
 
 </div>
