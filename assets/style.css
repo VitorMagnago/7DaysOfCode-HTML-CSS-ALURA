@@ -132,9 +132,8 @@
 .hero__text {
 	font-size: 1.25rem;
 	color: var(--font-color-sec);
-	margin-bottom: 4rem;
 }
 
 .hero__image {
-	margin: 0 auto;
+	margin: 4rem auto;
 }
