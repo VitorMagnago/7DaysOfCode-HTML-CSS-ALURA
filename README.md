@@ -2,7 +2,7 @@
 
 # 7 Days Of Code HTML CSS ALURA
 
-[Desafio 7 Days of Code Alura do curso HTML e CSS](https://7daysofcode.io/matricula/html-css) 
+[Desafio 7 Days of Code Alura do curso HTML e CSS](https://7daysofcode.io/matricula/html-css)
 
 <br>
 
@@ -14,7 +14,8 @@ O escopo do projeto é o seguinte: uma empresa de TI quer desenvolver uma págin
 
 ---
 
-### Dia 1 
+### Dia 1
+
 Desenvolver a barra do cabeçalho da aplicação, que contempla o logo, o menu com as páginas e também dois botões do canto direito.
 
 Resultado dia 1: Seção nav finalizada.
@@ -25,7 +26,8 @@ Resultado dia 1: Seção nav finalizada.
 
 ---
 
-### Dia 2 
+### Dia 2
+
 Desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho".
 
 Resultado dia 2: Seção "Sobre nós" finalizada.
@@ -36,7 +38,8 @@ Resultado dia 2: Seção "Sobre nós" finalizada.
 
 ---
 
-### Dia 3 
+### Dia 3
+
 Desenvolver a seção de métricas e resultados da página. Ela é uma seção muito comum na maioria das landing pages que vemos por aí hoje em dia.
 
 Resultado dia 3: Seção "métricas" finalizada.
@@ -44,6 +47,18 @@ Resultado dia 3: Seção "métricas" finalizada.
 <br>
 
 ![](/images/readme-images/resultado-dia3.png)
+
+---
+
+### Dia 4
+
+Implementar a seção de "Estamos procurando por talentos", com uma imagem centralizada e alguns detalhes no texto diferentes das seções implementadas anteriormente.
+
+Resultado dia 4: Seção "Estamos procurando por talentos" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia4.png)
 
 ---
 
