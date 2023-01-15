@@ -62,4 +62,16 @@ Resultado dia 4: Seção "Estamos procurando por talentos" finalizada.
 
 ---
 
+### Dia 5
+
+Implementar a seção de "vagas", com título de cada seção de vagas, e também em como os blocos e sub-blocos estão organizados e alinhados.
+
+Resultado dia 5: Seção "vagas" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia5.png)
+
+---
+
 </div>
