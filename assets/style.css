@@ -201,6 +201,7 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	border-radius: 16px
 
 }
 
@@ -209,6 +210,7 @@
 	font-size: .875rem;
 	line-height: 1.42;  /* Para encontrar o valor relativo do line-height dividimos o seu valor absoluto em px, pela font-sie em px */
 	font-weight: 600;
+	padding-top: 64px;
 }
 
 .depoimento__text{
@@ -218,20 +220,25 @@
 	font-weight: 500;
 	text-align: center;
 	letter-spacing: -0.02rem;
+	padding-top: 16px;
 }
 
 .depoimento__avatar{
 	width: fit-content;
+	padding-top: 32px;
 }
 
 .depoimento__nome{
 	color: var(--font-color-main);
 	font-weight: 500;
 	line-height: 1.5;
+	padding-top: 16px;
 }
 
 .depoimento__cargo{
 	color: var(--font-color-sec);
 	font-size: .875rem;
 	line-height: 1.428;
+	padding-top: 4px;
+	padding-bottom: 64px;
 }
