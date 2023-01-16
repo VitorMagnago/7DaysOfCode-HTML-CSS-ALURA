@@ -74,4 +74,16 @@ Resultado dia 5: Seção "vagas" finalizada.
 
 ---
 
+### Dia 6
+
+Implementar a seção de Depoimentos. Essa seção irá conter um pequeno texto acima, um título, uma imagem de uma colaboradora, além de seu nome e cargo dentro da empresa. Prestar atenção nas diferenças de cor entre os textos e do background, e também de tamanho de fonte.
+
+Resultado dia 6: Seção "depoimento" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia6.png)
+
+---
+
 </div>
