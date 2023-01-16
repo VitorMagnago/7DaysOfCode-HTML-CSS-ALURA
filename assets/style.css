@@ -194,3 +194,16 @@
 .vagas__detalhes p {
 	padding-right: 1.5rem;
 }
+
+.depoimento{
+	margin: 0 112px 96px 112px;
+	background-color: var(--generic-title-background-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+.depoimento__avatar{
+	width: fit-content;
+}
