@@ -86,4 +86,16 @@ Resultado dia 6: Seção "depoimento" finalizada.
 
 ---
 
+### Dia 7
+
+No ultimo dia do desafio devo desenvolver a última seção do projeto da página: o rodapé.
+
+Essa seção terá um título, um pequeno texto, um formulário com um campo de entrada para o e-mail e um botão. Além disso, também há um texto de copyright logo abaixo.
+
+Resultado dia 7: Seção "rodapé" finalizada.
+
+<br>
+
+![](/images/readme-images/resultado-dia7.png)
+
 </div>
