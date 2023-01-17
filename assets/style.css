@@ -21,21 +21,21 @@
 }
 
 .cabecalho {
-	margin: 18px 112px;
+	margin: 1.125rem 7rem;
 }
 
 .menu {
-	margin-left: 120px;
+	margin-left: 7.5rem;
 }
 
 .menu__list {
 	width: auto;
-	gap: 32px;
+	gap: 2rem;
 }
 .acesso {
 	margin-left: auto;
 	display: flex;
-	gap: 30px;
+	gap: 1.875rem;
 	align-items: center;
 }
 
@@ -47,7 +47,7 @@
 	color: #ffffff;
 	border: 1px solid var(--secundary-color);
 	background-color: var(--secundary-color);
-	padding: 10px 18px;
+	padding: .625rem 1.125rem;
 	box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
 	border-radius: 8px;
 }
@@ -57,8 +57,8 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: 24px;
-	margin: 96px 0 107px 0;
+	gap: 1.5rem;
+	margin: 6rem 0 6.6875rem 0;
 }
 
 .sobre-nos__generic {
@@ -70,7 +70,7 @@
 	font-size: 3rem;
 	font-weight: 600;
 	color: var(--font-color-main);
-	margin-bottom: 12px;
+	margin-bottom: .75rem;
 }
 
 .sobre-nos__text {
@@ -85,24 +85,24 @@
 	display: grid; /* Poderia ter utilizado flex, mas quis grid por questões de aprendizado */
 	grid-template-columns: repeat(4, 25%);
 	grid-template-rows: 1fr;
-	column-gap: 32px;
+	column-gap: 2rem;
 }
 
 .metricas__numero {
-	font-size: 60px;
+	font-size: 3.75rem;
 	color: var(--secundary-color);
 	font-weight: 600;
 }
 
 .metricas__titulo {
-	font-size: 18px;
+	font-size: 1.125rem;
 	color: var(--font-color-main);
 	margin-top: 12px;
 }
 
 .metricas__texto {
 	line-height: 24px;
-	margin-top: 8px;
+	margin-top: .5rem;
 	color: var(--font-color-sec);
 }
 
@@ -145,7 +145,7 @@
 	align-items: center;
 	width: 768px;
 	margin: 0 auto;
-	margin-bottom: 96px;
+	margin-bottom: 6rem;
 }
 
 .vagas__area {
@@ -153,17 +153,17 @@
 }
 .vagas__card {
 	border: 1px solid var(--card-border-color);
-	padding: 24px 24px 28px 24px;
-	margin-top: 24px;
+	padding: 1.5rem 1.5rem 1.75rem 1.5rem;
+	margin-top: 1.5rem;
 	border-radius: 16px;
 }
 
 .vagas__card--primeiro {
-	margin-top: 32px;
+	margin-top: 2rem;
 }
 
 .vagas__detalhes {
-	padding-top: 32px;
+	padding-top: 2rem;
 	display: flex;
 }
 
@@ -175,7 +175,7 @@
 }
 
 .dev {
-	margin-top: 64px;
+	margin-top: 4rem;
 }
 
 .vagas__nome {
@@ -196,7 +196,7 @@
 }
 
 .depoimento{
-	margin: 0 112px 96px 112px;
+	margin: 0 7rem 6rem 7rem;
 	background-color: var(--generic-title-background-color);
 	display: flex;
 	flex-direction: column;
@@ -210,7 +210,7 @@
 	font-size: .875rem;
 	line-height: 1.42;  /* Para encontrar o valor relativo do line-height dividimos o seu valor absoluto em px, pela font-sie em px */
 	font-weight: 600;
-	padding-top: 64px;
+	padding-top: 4rem;
 }
 
 .depoimento__text{
@@ -219,8 +219,8 @@
 	line-height: 1.22;
 	font-weight: 500;
 	text-align: center;
-	letter-spacing: -0.02rem;
-	padding-top: 16px;
+	letter-spacing: -0.32px;
+	padding-top: 1rem;
 }
 
 .depoimento__avatar{
@@ -232,15 +232,15 @@
 	color: var(--font-color-main);
 	font-weight: 500;
 	line-height: 1.5;
-	padding-top: 16px;
+	padding-top: 1rem;
 }
 
 .depoimento__cargo{
 	color: var(--font-color-sec);
 	font-size: .875rem;
 	line-height: 1.428;
-	padding-top: 4px;
-	padding-bottom: 64px;
+	padding-top: .25rem;
+	padding-bottom: 4rem;
 }
 
 .rodape{
